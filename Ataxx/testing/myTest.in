@@ -1,0 +1,14 @@
+#* java -ea ataxx.Main
+
+# Make sure that illegal moves are rejected during setup, and the
+# program exits normally.
+
+manual blue
+a7-a6
+a1-b3
+g1-g2
+b3-c1
+a6-b5
+c1-d1
+dump
+quit

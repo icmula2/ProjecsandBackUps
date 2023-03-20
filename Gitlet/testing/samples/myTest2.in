@@ -1,0 +1,7 @@
+I setup2.inc
+> add f.txt
+<<<
+> rm f.txt
+<<<
+> add g.txt
+<<<

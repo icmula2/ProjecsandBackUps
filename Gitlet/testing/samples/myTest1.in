@@ -1,0 +1,21 @@
+# Status with two adds
+I setup2.inc
+> rm g.txt
+<<<
+> add f.txt
+<<<
+> commit "Added and deleted"
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
