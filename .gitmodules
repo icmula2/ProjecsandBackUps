@@ -1,0 +1,3 @@
+[submodule "Ventures/Ventures/connex"]
+	path = Ventures/Ventures/connex
+	url = https://github.com/calconnex/connex.git
